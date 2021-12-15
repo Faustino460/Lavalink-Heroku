@@ -1,1 +1,1 @@
-worker: java -jar Lavalink.jar
+worker: java -Dnogui=true -jar Lavalink.jar
